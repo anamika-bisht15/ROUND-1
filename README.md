@@ -96,6 +96,10 @@ A high-fidelity **iOS-style interactive prototype** has been created to demonstr
 
 ---
 
+➡️ Team information available in **team.md**
+
+---
+
 ## 🧪 Current Implementation (Round 1)
 
 - Complaint input and submission  
