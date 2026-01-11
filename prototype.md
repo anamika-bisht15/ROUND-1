@@ -1,4 +1,3 @@
-<img width="1024" height="1024" alt="Gemini_Generated_Image_rbc7r9rbc7r9rbc7" src="https://github.com/user-attachments/assets/225c780c-d76a-49e5-aafd-950a4357ae40" />
 # This diagram illustrates the end-to-end lifecycle of a grievance within our system:
 
 - Input Layer: The system accepts unstructured text directly from the user.
@@ -9,3 +8,6 @@
 - Priority Assignment: Automatically flags the complaint as High, Medium, or Low priority based on urgency scores.
 - Data Persistence: All analyzed data is stored in the database for administrative action.
 - User Interface: A chatbot serves as the final touchpoint, providing the user with real-time status updates.
+
+<img width="1024" height="1024" alt="Gemini_Generated_Image_rbc7r9rbc7r9rbc7" src="https://github.com/user-attachments/assets/225c780c-d76a-49e5-aafd-950a4357ae40" />
+
