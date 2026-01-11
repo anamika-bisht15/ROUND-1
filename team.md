@@ -44,7 +44,7 @@
 
 ---
 
-### 4️⃣ Team Member *(Optional)*  
+### 4️⃣ Team Member   
 - **Name: Shyam Kumar**  
 - **Role:** Documentation & Research  
 - **Responsibilities:**  
