@@ -116,7 +116,7 @@ A high-fidelity **iOS-style interactive prototype** has been created to demonstr
 - Resolution time prediction using ML  
 - Multilingual support (Hindi & regional languages)  
 - Integration with government grievance APIs  
-- Secure authentication and user profiles  
+- Secure authentication and user profiles
 
 ---
 
